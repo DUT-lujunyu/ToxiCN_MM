@@ -26,10 +26,10 @@ class Config_base(object):
         else:
             self.hidden_dim = 768 
 
-        self.meme_path = path.dirname(path.dirname(__file__)) + '/meme/'          
-        self.train_path = path.dirname(path.dirname(__file__)) + '/train_data_discription.json'                                # 训练集
-        self.dev_path = path.dirname(path.dirname(__file__)) + '/test_data_discription.json'                                    # 验证集
-        self.test_path = path.dirname(path.dirname(__file__))+'/test_data_discription.json'  
+        self.meme_path = path.dirname(path.dirname(__file__)) + '/data/meme/'          
+        self.train_path = path.dirname(path.dirname(__file__)) + '/data/train_data_discription.json'                                # 训练集
+        self.dev_path = path.dirname(path.dirname(__file__)) + '/data/test_data_discription.json'                                    # 验证集
+        self.test_path = path.dirname(path.dirname(__file__))+'/data/test_data_discription.json'  
         self.result_path = path.dirname(path.dirname(__file__))+'/result'                                # 测试集
         self.checkpoint_path = path.dirname(path.dirname(__file__))+'/saved_dict'        # 数据集、模型训练结果
         self.data_path = self.checkpoint_path + '/' + self.model_name + '_data.tar'
