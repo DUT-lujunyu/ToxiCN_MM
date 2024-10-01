@@ -1,1 +1,25 @@
-# ToxiCN_MM
+# Towards Comprehensive Detection of Chinese Harmful Meme
+
+**The paper has been accepted in NeurIPS 2024 (Dataset & Benchmark Track).**
+
+☠️ ***Warning: The samples presented by this paper may be considered offensive or vulgar.***
+
+## 📜 Chinese Harmful Meme
+
+To adapt to the Chinese online environment, we introduce the definition of Chinese harmful memes:
+
+>_**Chinese harmful memes are multimodal units consisting of an image and Chinese inline text that have the potential to cause harm to an individual, an organization, a community, a social group, or society as a whole.** 
+These memes can range from offense or joking that perpetuate harmful stereotypes towards specific social entities, to memes that are more subtle and general but still have the potential to cause harm. 
+It is important to note that Chinese harmful memes can be created and spread intentionally or unintentionally. **They often reflect and reinforce underlying negative values and cultural attitudes on the Chinese Internet, which are detrimental from legal or moral perspectives.**_
+
+
+## 📜 ToxiCN MM
+
+According to the definition, we identify the most common harmful types of memes on Chinese platforms, including **_targeted harmful_**, **_general offense_**, _**sexual innuendo**_, and _**dispirited culture**_.
+We focus on these harmful types when constructing the dataset.
+
+## ❗️ Ethics Statement
+We acknowledge the risk of malicious actors attempting to reverse-engineer memes. We strongly discourage and denounce such practices, emphasizing the necessity of human moderation to prevent them. We believe the benefits of our proposed resources outweigh the associated risks. **All resources are intended solely for scientific research and are prohibited from commercial use.**
+
+## ❗️ Licenses
+This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
