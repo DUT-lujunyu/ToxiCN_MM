@@ -1,6 +1,6 @@
 # Towards Comprehensive Detection of Chinese Harmful Meme
 
-**The paper has been accepted in NeurIPS 2024 (Dataset & Benchmark Track).**
+**The paper has been accepted in NeurIPS 2024 (Dataset & Benchmark Track). [paper](https://arxiv.org/abs/2410.02378)** 
 
 ☠️ ***Warning: The samples presented by this paper may be considered offensive or vulgar.***
 
