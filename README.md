@@ -34,3 +34,17 @@ We acknowledge the risk of malicious actors attempting to reverse-engineer memes
 
 ## ❗️ Licenses
 This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
+
+## Cite
+If you want to use the resources, please cite the following paper. The camera-ready version of the paper will be released after the conference:
+~~~
+@misc{lu2024comprehensivedetectionchineseharmful,
+      title={Towards Comprehensive Detection of Chinese Harmful Memes}, 
+      author={Junyu Lu and Bo Xu and Xiaokun Zhang and Hongbo Wang and Haohao Zhu and Dongyu Zhang and Liang Yang and Hongfei Lin},
+      year={2024},
+      eprint={2410.02378},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.02378}, 
+}
+~~~
