@@ -44,13 +44,10 @@ This work is licensed under a Creative Commons Attribution- NonCommercial-NoDeri
 ## Cite
 If you want to use the resources, please cite the following paper. The camera-ready version of the paper will be released after the conference:
 ~~~
-@misc{lu2024comprehensivedetectionchineseharmful,
-      title={Towards Comprehensive Detection of Chinese Harmful Memes}, 
-      author={Junyu Lu and Bo Xu and Xiaokun Zhang and Hongbo Wang and Haohao Zhu and Dongyu Zhang and Liang Yang and Hongfei Lin},
-      year={2024},
-      eprint={2410.02378},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.02378}, 
+@article{lu2024towards,
+  title={Towards Comprehensive Detection of Chinese Harmful Memes},
+  author={Lu, Junyu and Xu, Bo and Zhang, Xiaokun and Wang, Hongbo and Zhu, Haohao and Zhang, Dongyu and Yang, Liang and Lin, Hongfei},
+  journal={arXiv preprint arXiv:2410.02378},
+  year={2024}
 }
 ~~~
