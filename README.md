@@ -51,3 +51,8 @@ If you want to use the resources, please cite the following paper. The camera-re
   year={2024}
 }
 ~~~
+
+## Poster
+[poster.pdf](https://github.com/user-attachments/files/17450166/poster.pdf)
+
+
