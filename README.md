@@ -53,6 +53,7 @@ If you want to use the resources, please cite the following paper. The camera-re
 ~~~
 
 ## Poster
-[poster.pdf](https://github.com/user-attachments/files/17450166/poster.pdf)
+![poster_original](https://github.com/user-attachments/assets/65710aa3-6dde-4ec7-a385-6506b5c8ecfb)
+
 
 
