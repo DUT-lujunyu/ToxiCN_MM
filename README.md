@@ -4,6 +4,9 @@
 
 ☠️ ***Warning: The samples presented by this paper may be considered offensive or vulgar.***
 
+## ❗️ Ethics Statement
+We acknowledge the risk of malicious actors attempting to reverse-engineer memes. **We sincerely hope that users will employ the dataset responsibly and appropriately, avoiding misuse or abuse.** We believe the benefits of our proposed resources outweigh the associated risks. **All resources are intended solely for scientific research and are prohibited from commercial use.**
+
 ## 📜 Chinese Harmful Meme
 
 To adapt to the Chinese online environment, we introduce the definition of Chinese harmful memes:
@@ -35,8 +38,7 @@ We present a **Multimodal Knowledge Enhancement Detector** for effective detecti
 
 
 
-## ❗️ Ethics Statement
-We acknowledge the risk of malicious actors attempting to reverse-engineer memes. **We sincerely hope that users will employ the dataset responsibly and appropriately, avoiding misuse or abuse.** We believe the benefits of our proposed resources outweigh the associated risks. **All resources are intended solely for scientific research and are prohibited from commercial use.**
+
 
 ## ❗️ Licenses
 This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
