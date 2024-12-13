@@ -1,7 +1,9 @@
 # Towards Comprehensive Detection of Chinese Harmful Meme
 
-**2024.12 Update:
-We have open-resourced version 2.0 of the ToxiCN MM dataset (see [train_data_discription_2.0.json](https://github.com/DUT-lujunyu/ToxiCN_MM/blob/main/data/train_data_discription_2.0.json) / [test_data_discription_2.0.json](https://github.com/DUT-lujunyu/ToxiCN_MM/blob/main/data/test_data_discription_2.0.json)).** Specifically, we re-annotated some ambiguous samples (accounting for less than 1%). These updates have resulted in slight differences in the label distribution compared to what was reported in the original paper.
+⚙ **2024.12 Update:
+We have open-resourced version 2.0 of the ToxiCN MM dataset (see [train_data_discription_2.0.json](https://github.com/DUT-lujunyu/ToxiCN_MM/blob/main/data/train_data_discription_2.0.json) / [test_data_discription_2.0.json](https://github.com/DUT-lujunyu/ToxiCN_MM/blob/main/data/test_data_discription_2.0.json)).** 
+
+Specifically, we re-annotated some ambiguous samples (accounting for less than 1%). These updates have resulted in slight differences in the label distribution compared to what was reported in the original paper.
 We also provided the specific attacked targets for targeted harmful memes. For a more detailed explanation of the attacked targets, please refer to `target_info.csv` in the `./data/` directory.
 ___ 
 
