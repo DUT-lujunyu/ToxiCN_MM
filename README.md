@@ -15,6 +15,8 @@ ___
 ## ❗️ Ethics Statement
 The opinions and findings contained in the samples of our presented dataset should not be interpreted as representing the views expressed or implied by the authors. We acknowledge the risk of malicious actors attempting to reverse-engineer memes. **We sincerely hope that users will employ the dataset responsibly and appropriately, avoiding misuse or abuse.** We believe the benefits of our proposed resources outweigh the associated risks. **All resources are intended solely for scientific research and are prohibited from commercial use.**
 
+The data in this dataset is collected from publicly available online sources. **If any content is found to infringe upon copyright or other intellectual property rights, please contact us promptly, and we will take appropriate action, including content removal.**
+
 ## 📜 Chinese Harmful Meme
 
 To adapt to the Chinese online environment, we introduce the definition of Chinese harmful memes:
